@@ -194,4 +194,5 @@ cython_debug/
 .cursorindexingignore
 
 # Ignore data folder completely
-data/
+data/*
+!data/.gitkeep
