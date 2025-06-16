@@ -1,0 +1,22 @@
+# Core scientific and data manipulation libraries
+numpy               # For numerical operations, arrays, and matrices
+pandas              # For data loading, cleaning, and manipulation
+
+# System and string handling (standard libraries, included in Python)
+# os                # For file and directory management
+# string            # For string constants and operations
+# re                # For regular expressions
+
+# Visualization libraries
+matplotlib          # For plotting and visualizations
+seaborn             # For statistical data visualization built on top of matplotlib
+
+# Machine Learning utilities
+scikit-learn        # For model selection, data shuffling, and metrics
+
+# Deep Learning (for sequence-to-sequence translation models)
+tensorflow          # Backend engine for Keras (includes Keras in recent versions)
+keras               # High-level neural network API used for defining the translation model
+
+# Jupyter Notebook magic (not needed in requirements)
+# %matplotlib inline  # Ensures inline plot rendering in notebooks
