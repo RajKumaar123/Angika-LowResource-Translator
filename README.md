@@ -45,5 +45,4 @@ Contributions, suggestions, and improvements are welcome to further this importa
    git clone https://github.com/RajKumaar123/Angika-LowResource-Translator.git
    cd Angika-LowResource-Translator
 =======
-# Angika-LowResource-Translator
->>>>>>> 5e3aec3b6d5d5c25a5980dd81e2471d0486bd074
+
